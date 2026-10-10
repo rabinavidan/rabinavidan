@@ -28,7 +28,7 @@ Across my professional work:
 
 ## AI for Quality Engineering 🤖
 
-I use **Claude Code, Cursor, AI agents, and LLM workflows** to support automation development and explore better ways to diagnose failures and generate tests.
+I use **Claude Code, Codex, Cline, GitHub Copilot, Cursor, AI agents, and LLM workflows** to support automation development and explore better ways to diagnose failures and generate tests.
 
 My personal projects explore:
 

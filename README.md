@@ -4,7 +4,7 @@
 
 I build automation **infrastructure and frameworks** that help teams release with confidence. My work combines hands-on development, system architecture analysis, and matrix leadership across global teams.
 
-I work closely with Product, developers, and QA to understand customer needs, turn roadmaps into practical test strategies, and improve quality across **Web, Mobile, REST APIs, and distributed backend systems**.
+I work closely with Product, developers, and QA to understand customer needs, turn roadmaps into practical test strategies, and improve quality across **Web, Mobile, APIs, Microservices and distributed backend systems**.
 
 🔎 **Open to Automation Tech Lead, Quality/Automation Architect, and Senior SDET opportunities in central Israel.**
 

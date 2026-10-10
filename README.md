@@ -80,4 +80,4 @@ Interested in hands-on technical leadership, automation architecture, or AI-driv
 
 📍 **Israel** · Open to opportunities
 
-📬 Contact me through the **email or LinkedIn link on my GitHub profile**.
+💼 [LinkedIn](https://www.linkedin.com/in/rabin-avidan/) · 📬 [rabin.avidan.dev@gmail.com](mailto:rabin.avidan.dev@gmail.com)
